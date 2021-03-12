@@ -1,0 +1,16 @@
+{
+    "name": "V2Ray4Heroku",
+    "description": "Deploy V2ray on Heroku.",
+    "keywords": [
+        "V2Ray"
+    ],
+    "env": {
+        "UUID": {
+            "description": "V2Ray client UUID",
+            "value": "b22c50b3-54d3-4882-8a81-2035230e591b"
+        }
+    },
+    "website": "https://github.com/lyz7805/v2ray4heroku",
+    "repository": "https://github.com/lyz7805/v2ray4heroku",
+    "stack": "container"
+}
